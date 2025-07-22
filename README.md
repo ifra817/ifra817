@@ -1,20 +1,13 @@
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚌𝚘𝚍𝚎𝚛𝚜! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=BF5700&center=true&vCenter=true&width=500&lines=Hello+there,+fellow+coders!;I'm+Ifra+Ahmed!;Welcome+to+my+GitHub+Portfolio!" alt="Hello there, fellow coders! I'm Ifra Ahmed. Welcome to my GitHub Portfolio!" />
-</p>
-
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif"  alt="Coding GIF">
 </p>
-<h2 align="center">
-  Hello there, fellow coders!
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=BF5700&center=true&vCenter=true&width=500&lines=I'm+Ifra+Ahmed!;Welcome+to+my+GitHub+Portfolio!" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=BF5700&center=true&vCenter=true&width=500&lines=Hello+there,+fellow+coders!;I'm+Ifra+Ahmed!;Welcome+to+my+GitHub+Portfolio!" alt="Hello there, fellow coders! I'm Ifra Ahmed. Welcome to my GitHub Portfolio!" />
 </p>
+
+---
 
 <h2 align="center">💡 About Me</h2>
 <table>
@@ -32,59 +25,61 @@
   </tr>
 </table>
 
-<h2 align="center">Programming Tools and Languages</h2>
+---
 
-<h3 align="center">Programming Languages</h3>
+## 🛠️ Programming Tools and Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Visual%20Basic-68217A?logo=visualbasic&logoColor=white&style=flat-square" alt="Visual Basic"/>
-</p>
-
-<h3 align="center">Frameworks & Libraries</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django"/>
-  <img src="https://img.shields.io/badge/Tkinter-FFCD00?style=flat-square" alt="Tkinter"/>
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square" alt="PyQt"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="pandas"/>
-  <img src="https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white&style=flat-square" alt="numpy"/>
-  <img src="https://img.shields.io/badge/seaborn-2E8BC0?style=flat-square" alt="seaborn"/>
-</p>
-
-
-<h3 align="center">Databases & Backend</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL"/>
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter"/>
-</p>
-
-<h3 align="center">Tools & IDEs</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Spyder-FF0000?logo=spyder&logoColor=white&style=flat-square" alt="Spyder"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square" alt="NetBeans"/>
-  <img src="https://img.shields.io/badge/Dev C++-blue?style=flat-square" alt="Dev C++"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Visual Basic-68217A?logo=microsoft&logoColor=white&style=flat-square" alt="Microsoft Visual Basic"/>
-  <img src="https://img.shields.io/badge/Qt Designer-41CD52?logo=qt&logoColor=white&style=flat-square" alt="Qt Designer"/>
-</p>
+<table>
+  <tr valign="top">
+    <!-- Left Column -->
+    <td width="50%">
+      <h4>🧠 Programming Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=flat"/>
+      </p>
+      <h4>📚 Frameworks & Libraries</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask"/>
+        <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Tkinter-FFB400?style=flat"/>
+        <img src="https://img.shields.io/badge/-PyQt-41CD52?style=flat"/>
+        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas"/>
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy"/>
+        <img src="https://img.shields.io/badge/-Seaborn-76B900?style=flat"/>
+      </p>
+    </td>
+    <!-- Right Column -->
+    <td width="50%">
+      <h4>🗄️ Databases & Backend</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      </p>
+      <h4>🧰 Tools & Platforms</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>
+        <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+      </p>
+      <h4>💻 Tools & IDEs</h4>
+      <p>
+        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
+        <img src="https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide"/>
+        <img src="https://img.shields.io/badge/-Dev%20C++-000000?style=flat"/>
+        <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm"/>
+        <img src="https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=flat"/>
+        <img src="https://img.shields.io/badge/-Qt%20Designer-41CD52?style=flat"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -147,10 +142,20 @@
 
 ---
 
-## 📚 Education
+## 🎓 Education
+- 🏫 **BS Computer Science** – COMSATS Wah (2023–2027) | **CGPA:** 3.67  
+- 🎓 **A-Levels:** 1 A, 2 B's  
+- 🎓 **O-Levels:** 2 A*’s, 6 A’s
+  
+---
 
-🎓 **BS Computer Science** – COMSATS Wah (2023–2027) | **CGPA:** 3.67  
-📘 **A-Levels:** 1 A, 2 B's | **O-Levels:** 2 A*’s, 6 A’s  
+## 📘 Currently Learning
+- 🛠️ Flask & Full Stack Development  
+- 🗃️ SQLAlchemy & Databases  
+- 📋 Project Management (Agile, Jira)  
+- 🔐 Cybersecurity Concepts  
+- 🤖 Machine Learning Basics  
+
 
 ---
 
@@ -163,20 +168,11 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- JavaScript (Frontend)  
-- Advanced Flask  
-- GitHub Actions · Deployment on Render
-- DJango
-
----
-
 ## 🙌 Let’s Connect!
 
 If you're looking to collaborate or offer an opportunity, reach out anytime:  
 
-<div align="left">
+<div align="center">
   <a href="mailto:ifraahmed817@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
