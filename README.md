@@ -1,30 +1,26 @@
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚌𝚘𝚍𝚎𝚛𝚜! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=BF5700&center=true&vCenter=true&width=500&lines=Hello+there,+fellow+coders!;I'm+Ifra+Ahmed!;Welcome+to+my+GitHub+Portfolio!" alt="Hello there, fellow coders! I'm Ifra Ahmed. Welcome to my GitHub Portfolio!" />
+</p>
 
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif"  alt="Coding GIF">
 </p>
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚌𝚘𝚍𝚎𝚛𝚜! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=BF5700&center=true&vCenter=true&width=435&lines=I'm+Ifra+Ahmed!;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
-</p>
+<h2 align="center">
+  Hello there, fellow coders!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h2>
 
 <p align="center">
-  <a href="mailto:ifraahmed817@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ifra-ahmed-096423319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ifra817" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=BF5700&center=true&vCenter=true&width=500&lines=I'm+Ifra+Ahmed!;Welcome+to+my+GitHub+Portfolio!" alt="Typing introduction" />
 </p>
 
-
+<h2 align="center">💡 About Me</h2>
 <table>
   <tr>  
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=40E0D0&width=500&lines=Computer+Science+Student;Web+Developer+%7C+Cybersecurity+Learner;Tech+Enthusiast+with+a+Creative+Mindset" alt="Typing SVG" /><br />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=40E0D0&width=500&lines=Computer+Science+Student;Aspiring+Web+Developer;Passionate+about+Cybersecurity;Tech+Enthusiast+with+a+Creative+Mindset" alt="Typing SVG" /><br />
       I'm a <strong>Computer Science</strong> student, passionate about developing smart, secure, and intuitive digital solutions.<br />
       I enjoy creating intelligent systems and interfaces—from secure messaging tools to interactive GUIs—while always aiming to blend functionality with simplicity.<br /><br />
       I'm especially excited about areas like <strong>cybersecurity</strong>, <strong>machine learning</strong>, and <strong>creative web development</strong>.<br />
@@ -47,12 +43,14 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Visual%20Basic-68217A?logo=visualbasic&logoColor=white&style=flat-square" alt="Visual Basic"/>
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django"/>
   <img src="https://img.shields.io/badge/Tkinter-FFCD00?style=flat-square" alt="Tkinter"/>
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square" alt="PyQt"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="scikit-learn"/>
@@ -60,6 +58,7 @@
   <img src="https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white&style=flat-square" alt="numpy"/>
   <img src="https://img.shields.io/badge/seaborn-2E8BC0?style=flat-square" alt="seaborn"/>
 </p>
+
 
 <h3 align="center">Databases & Backend</h3>
 
@@ -75,14 +74,18 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter"/>
 </p>
 
-<h3 align="center">Development Environments</h3>
+<h3 align="center">Tools & IDEs</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Spyder-FF0000?logo=spyder&logoColor=white&style=flat-square" alt="Spyder"/>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square" alt="NetBeans"/>
   <img src="https://img.shields.io/badge/Dev C++-blue?style=flat-square" alt="Dev C++"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Visual Basic-68217A?logo=microsoft&logoColor=white&style=flat-square" alt="Microsoft Visual Basic"/>
+  <img src="https://img.shields.io/badge/Qt Designer-41CD52?logo=qt&logoColor=white&style=flat-square" alt="Qt Designer"/>
 </p>
+
 
 ---
 
