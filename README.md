@@ -89,6 +89,8 @@
 
 ---
 
+<div align="center">
+
 ### 🎯 Domains
 
 - GUI Development  
@@ -114,6 +116,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ifra817&show_icons=true&theme=radical&hide=issues&border_radius=10" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ifra817&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" height="150" />
+</p>
+
+---
+
+## 🛡️ TryHackMe Badges
+
+<p>
+  <a href="https://tryhackme.com/ifraahmed817/badges/terminaled" target="_blank">
+    <img src="https://tryhackme.com/img/badges/linux.svg" alt="cat linux.txt Badge" width="120" title="Being competent in Linux" />
+  </a>
+  <a href="https://tryhackme.com/ifraahmed817/badges/first-4-rooms" target="_blank">
+    <img src="https://tryhackme.com/img/badges/firstfour.svg" alt="First Four Badge" width="120" title="Completed four rooms in first week" />
+  </a>
 </p>
 
 ---
@@ -168,9 +183,11 @@
 
 ---
 
+
+
 ## 🎯 Extra Curriculars
 
-- ⚽ **Cricket Organizer** @ COMSATS Sports Society
+- ⚽ **Cricket Organizer** @ COMSATS Sports Society  
 - 👩‍💻 **General Member** @ ACM – Code Hub  
 - 🎭 **Co-Head** @ COMSATS Cultural Society  
 - 💙 **Volunteer** @ Chain for Change (Orphanage Support)  
@@ -181,17 +198,17 @@
 
 If you're looking to collaborate or offer an opportunity, reach out anytime:  
 
-<div align="center">
-  <a href="mailto:ifraahmed817@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ifra-ahmed-096423319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ifra817" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  </a>
+<a href="mailto:ifraahmed817@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/ifra-ahmed-096423319" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ifra817" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+</a>
+
 </div>
 
-
 ---
+
