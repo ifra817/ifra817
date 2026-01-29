@@ -156,7 +156,7 @@
 - ✅ Introduction to Project Management – IBM  
 
 ### 🧑‍💼 Internship & Participation
-- 🎓 Internship Certificate – CodeAlpha  
+- 🎓 Backend Developer – ACM Website (Internship) 
 - 🏅 United Hacks – Participation Certificate
 
 
@@ -187,8 +187,8 @@
 
 ## 🎯 Extra Curriculars
 
-- ⚽ **Cricket Organizer** @ COMSATS Sports Society  
-- 👩‍💻 **General Member** @ ACM – Code Hub  
+- 👩‍💻 **Lead** @ ACM – Code Hub  
+- ⚽ **Executive Member** @ COMSATS Sports Society  
 - 🎭 **Co-Head** @ COMSATS Cultural Society  
 - 💙 **Volunteer** @ Chain for Change (Orphanage Support)  
 
