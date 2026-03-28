@@ -13,7 +13,7 @@
 <table>
   <tr>  
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2500&color=40E0D0&width=500&lines=Computer+Science+Student;Aspiring+Web+Developer;Passionate+about+Cybersecurity;Tech+Enthusiast+with+a+Creative+Mindset" alt="Typing SVG" /><br />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2500&color=40E0D0&width=500&lines=Computer+Science+Student;Full-Stack+and+Mobile+Developer;Passionate+about+Cybersecurity;Tech+Enthusiast+with+a+Creative+Mindset" alt="Typing SVG" /><br />
       I'm a <strong>Computer Science</strong> student, passionate about developing smart, secure, and intuitive digital solutions.<br />
       I enjoy creating intelligent systems and interfaces—from secure messaging tools to interactive GUIs—while always aiming to blend functionality with simplicity.<br /><br />
       I'm especially excited about areas like <strong>cybersecurity</strong>, <strong>machine learning</strong>, and <strong>creative web development</strong>.<br />
@@ -28,59 +28,52 @@
 ---
 
 <div align="center">
-  <h3>Programming Tools and Languages 🛠️ </h3>
+  <h3>🛠️ Technical Stack</h3>
 <table>
   <tr valign="top">
-    <!-- Left Column -->
     <td width="50%">
-      <h4>Programming Languages</h4>
+      <h4>Languages & Frameworks</h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-        <br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat-square" />
-      </p>
-      <h4>Frameworks & Libraries</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tkinter-FFB400?style=flat-square"/>
-        <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square"/>
-        <br>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-        <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+      <h4>Data Science & AI</h4>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Seaborn-444444?style=flat-square"/>
       </p>
     </td>
-    <!-- Right Column -->
     <td width="50%">
-      <h4>Databases & Backend</h4>
+      <h4>Databases & Cloud</h4>
       <p>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLAlchemy-FFCA28?style=flat-square&logo=sqlalchemy&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
       </p>
-      <h4>🛠Tools & Platforms</h4>
+      <h4>DevOps & Tools</h4>
       <p>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      </p>
-      <h4>IDEs & Editors</h4>
-      <p>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"/>
+        <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide"/>
-        <br>
-        <img src="https://img.shields.io/badge/Dev%20C++-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm"/>
-        <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Qt%20Designer-41CD52?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -92,16 +85,30 @@
 <div align="center">
 
 ### 🎯 Domains
-
-- GUI Development  
-- Machine Learning  
-- Cybersecurity  
-- Web Development
+- **Mobile Development** (Flutter/Dart) 📱
+- **Full-Stack Development** (Django/Supabase/React) 🌐
+- **Cybersecurity & Encryption** 🔐
+- **Computer Vision & ML** (OpenCV/NLP) 🤖
 
 ---
 
+## 🏛️ Organizations
+<p align="center">
+  <a href="https://github.com/ACM-CUI-Wah" target="_blank">
+    <img src="https://img.shields.io/badge/ACM%20CUI%20Wah-Team%20Lead-004E96?style=for-the-badge&logo=acm&logoColor=white" />
+  </a>
+  <a href="https://github.com/CareLink-Team" target="_blank">
+    <img src="https://img.shields.io/badge/CareLink--Team-Contributor-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </a>
+</p>
+
+---
+</div>
+
 ## 📂 Featured Projects
 
+- 🏥 **[CareLink Admin App](https://github.com/CareLink-Team/Admin_App)** – Developing a centralized hospital management dashboard using **Flutter** and **Supabase**, focusing on real-time doctor-patient analytics and intuitive UI modules.
+- 🛍️ **[Gadgetify](https://github.com/ifra817/Gadgetify)** – A robust E-commerce platform built with **PHP** and **Laravel**, featuring secure user authentication, product management, and an interactive shopping experience.
 - 🔐 **[EHR Insider Threat Detection](https://github.com/ifra817/EHR_InsiderThreat_Detection)** – SVM-based real-time anomaly detector with 2FA using PyQt + MySQL.  
 - 🐾 **[PawPal](https://github.com/ifra817/PawPal)** – Flask-powered platform for animal rescue, vet registration, and cruelty reporting.  
 - 📧 **[Mail Encryption Decryption System](https://github.com/ifra817/Mail_EncDec_System)** – PyQt GUI app using Vernam Cipher for secure messaging.  
@@ -111,11 +118,27 @@
 
 ---
 
-## 🏆 GitHub Stats
+## 🧑‍💼 Internship
+
+**Backend Developer Intern | ACM CUI Wah** (Jul 2025 – Sep 2025)
+- 🏗️ **Society Portal:** Developed backend modules for member management, events, blogs, and announcements.
+- 🔐 **API Design:** Built RESTful APIs using **Django & DRF** with role-based access control (RBAC).
+- 🤝 **Agile Workflow:** Collaborated in a team environment using **Jira**, GitHub PRs, and strict branching strategies.
+
+**Python Intern @ CodeAlpha** (Feb–Mar 2025)  
+- 🛠️ Developed a dynamic Tkinter-based chatbot with SpaCy & WikiAPI  
+- 🗂️ Built an automated file organizer for smart sorting by filetype  
+
+---
+
+## 🛠️ Engineering Standards & Collaboration
+- 🔍 **Code Quality:** Experienced in performing technical code reviews and maintaining clean, scalable codebases.
+- 🌿 **Git Workflow:** Proficient in branching strategies, resolving complex merge conflicts, and managing Pull Requests.
+- 🏗️ **API Architecture:** Designing and documenting robust APIs using **Swagger** and testing with **Postman**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifra817&show_icons=true&theme=radical&hide=issues&border_radius=10" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ifra817&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" height="150" />
+  <img src="https://img.shields.io/badge/Code%20Reviewer-Active-blue?style=for-the-badge&logo=github" alt="Code Reviewer Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=github" alt="Contributor Badge"/>
 </p>
 
 ---
@@ -123,21 +146,13 @@
 ## 🛡️ TryHackMe Badges
 
 <p>
-  <a href="https://tryhackme.com/ifraahmed817/badges/terminaled" target="_blank">
-    <img src="https://tryhackme.com/img/badges/linux.svg" alt="cat linux.txt Badge" width="120" title="Being competent in Linux" />
+  <a href="https://tryhackme.com/p/ifraahmed817" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/terminaled.svg" alt="Linux Badge" width="120" />
   </a>
-  <a href="https://tryhackme.com/ifraahmed817/badges/first-4-rooms" target="_blank">
-    <img src="https://tryhackme.com/img/badges/firstfour.svg" alt="First Four Badge" width="120" title="Completed four rooms in first week" />
+  <a href="https://tryhackme.com/p/ifraahmed817" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/first-4-rooms.svg" alt="First Four Badge" width="120" />
   </a>
 </p>
-
----
-
-## 🧑‍💼 Internship
-
-**Python Intern @ CodeAlpha** (Feb–Mar 2025)  
-- 🛠️ Developed a dynamic Tkinter-based chatbot with SpaCy & WikiAPI  
-- 🗂️ Built an automated file organizer for smart sorting by filetype  
 
 ---
 
@@ -168,22 +183,39 @@
 - 🎓 **O-Levels:** 2 A*’s, 6 A’s
   
 ---
-
+<div align="center">
+  
 ## 📘 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-FF0000?logo=sqlalchemy&logoColor=white&style=flat-square" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" alt="Jira"/>
   <img src="https://img.shields.io/badge/Cybersecurity-232F3E?logo=hackthebox&logoColor=white&style=flat-square" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-1572B6?logo=tensorflow&logoColor=white&style=flat-square" alt="Machine Learning"/>
 </p>
 
+</div>
+---
+
+## 🏆 Achievements & Awards
+
+- 🥇 **1st Position | Codezaar** – Inter-University Coding Competition hosted at Bahria University (Hackerrank).
+- ⚡ **1st Position | Speed Coding** – Intra-University competition organized by **Google Developer Groups (GDG)** at COMSATS Wah.
+- 🐛 **3rd Position | Bug Bash** – Combits'25 Inter-University Debugging Competition at COMSATS Attock.
 
 ---
 
+## 🏆 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifra817&show_icons=true&theme=radical&hide=issues&border_radius=10" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ifra817&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifra817&theme=tokyonight&hide_border=true&area=true&v=1" width="100%" />
+</p>
+
+---
 
 ## 🎯 Extra Curriculars
 
