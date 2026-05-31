@@ -107,14 +107,14 @@
 
 ## 📂 Featured Projects
 
-- 🏥 **[CareLink Admin App](https://github.com/CareLink-Team/Admin_App)** – Developing a centralized hospital management dashboard using **Flutter** and **Supabase**, focusing on real-time doctor-patient analytics and intuitive UI modules.
-- 🛍️ **[Gadgetify](https://github.com/ifra817/Gadgetify)** – A robust E-commerce platform built with **PHP** and **Laravel**, featuring secure user authentication, product management, and an interactive shopping experience.
-- 🔐 **[EHR Insider Threat Detection](https://github.com/ifra817/EHR_InsiderThreat_Detection)** – SVM-based real-time anomaly detector with 2FA using PyQt + MySQL.  
-- 🐾 **[PawPal](https://github.com/ifra817/PawPal)** – Flask-powered platform for animal rescue, vet registration, and cruelty reporting.  
-- 📧 **[Mail Encryption Decryption System](https://github.com/ifra817/Mail_EncDec_System)** – PyQt GUI app using Vernam Cipher for secure messaging.  
-- 🤖 **[Chatbot with NLP & Wikipedia](https://github.com/ifra817/Chatbot)** – Tkinter chatbot with JSON-based responses and real-time WikiAPI integration.  
-- ❓ **[Java Quiz App](https://github.com/ifra817/QuizApplication)** – GUI quiz system with MySQL backend and dynamic feedback.  
-- 🎮 **[Hangman Game (C++)](https://github.com/ifra817/Hangman)** – Console-based word game with ASCII art and hints.  
+- 🤖 **[BioCrypt](https://github.com/ifra817/BioCrypt)** – A high-accuracy facial recognition biometric attendance tracking system engineered with Python and **OpenCV**, designed for secure real-time authentication and logging.
+- 🔍 **[VisionInspect-AI](https://github.com/CareLink-Team/VisionInspect-AI)** – An intelligent computer vision solution focused on quality control and manufacturing defect analysis, utilizing custom pipelines for precise crack and anomaly detection.
+- 💳 **[BudgetSense](https://github.com/KewlestTrilogy/BudgetSense)** – A cross-platform smart financial tracker app built with **Flutter** and integrated with **Supabase**, featuring dynamic analytics, automated budgeting rules, and secure cloud sync.
+- 🏥 **[CareLink Admin App](https://github.com/CareLink-Team/Admin_App)** – A centralized hospital administration dashboard built using **Flutter** and **Supabase**, focusing on medical analytics and intuitive modules.
+- 🛍️ **[Gadgetify](https://github.com/ifra817/Gadgetify)** – A full-featured E-commerce engine architected with **PHP** and **Laravel**, utilizing secure user authentication and dynamic product catalog management.
+- 🔐 **[EHR Insider Threat Detection](https://github.com/ifra817/EHR_InsiderThreat_Detection)** – An SVM-based real-time anomaly detector monitoring patient data access patterns with 2FA, configured via PyQt + MySQL.  
+- 🐾 **[PawPal](https://github.com/ifra817/PawPal)** – A Flask-backed platform facilitating animal rescue networks, vet registrations, and automated community cruelty reporting.  
+- 📧 **[Mail Encryption Decryption System](https://github.com/ifra817/Mail_EncDec_System)** – A standalone PyQt GUI application securing communications through a programmatic implementation of the Vernam Cipher.  
 
 ---
 
@@ -192,6 +192,11 @@
   <img src="https://img.shields.io/badge/Cybersecurity-232F3E?logo=hackthebox&logoColor=white&style=flat-square" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-1572B6?logo=tensorflow&logoColor=white&style=flat-square" alt="Machine Learning"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?logo=opencv&logoColor=white&style=flat-square" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-232F3E?logo=hackthebox&logoColor=white&style=flat-square" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1572B6?logo=tensorflow&logoColor=white&style=flat-square" alt="Machine Learning"/>
+</p>
 
 </div>
 
@@ -199,8 +204,10 @@
 
 ## 🏆 Achievements & Awards
 
-- 🥇 **1st Position | Codezaar** – Inter-University Coding Competition hosted at Bahria University (Hackerrank).
-- ⚡ **1st Position | Speed Coding** – Intra-University competition organized by **Google Developer Groups (GDG)** at COMSATS Wah.
+- 🥇 **1st Position | Mega CodeWars '26** – Premier speed coding and algorithmic challenge champion.
+- 🥇 **1st Position | Combits '25** – Inter-University Speed Coding Competition.
+- 🥇 **1st Position | Codezaar** – Inter-University Algorithmic Coding Arena hosted at Bahria University.
+- ⚡ **1st Position | Speed Coding** – Intra-University hackathon organized by Google Developer Groups (GDG).
 - 🐛 **3rd Position | Bug Bash** – Combits'25 Inter-University Debugging Competition at COMSATS Attock.
 
 ---
