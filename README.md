@@ -120,14 +120,29 @@
 
 ## 🧑‍💼 Internship
 
+**Project Lead & QA Tester | ACM CUI Wah** (Jan 2026 – Mar 2026)
+- 🏗️ **Portal V2 Architecture:** Spearheaded backend coordination and module development for the deployment of **ACM Portal V2**, managing core systems for member verification, event timelines, and content publishing.
+- 🧪 **QA & Verification:** Led quality assurance testing pipelines for V2 modules, utilizing **Postman** & **Swagger** for comprehensive API validation, schema compliance, and performance tracking before deployment staging.
+  
 **Backend Developer Intern | ACM CUI Wah** (Jul 2025 – Sep 2025)
-- 🏗️ **Society Portal:** Developed backend modules for member management, events, blogs, and announcements.
+- 🏗️ **Society Portal V1:** Developed backend modules for member management, events, blogs, and announcements.
 - 🔐 **API Design:** Built RESTful APIs using **Django & DRF** with role-based access control (RBAC).
 - 🤝 **Agile Workflow:** Collaborated in a team environment using **Jira**, GitHub PRs, and strict branching strategies.
 
 **Python Intern @ CodeAlpha** (Feb–Mar 2025)  
 - 🛠️ Developed a dynamic Tkinter-based chatbot with SpaCy & WikiAPI  
 - 🗂️ Built an automated file organizer for smart sorting by filetype  
+
+---
+
+## 🏛️ Leadership & Operational Roles
+
+**Director of Operations | ACM Student Chapter** (May 2026 – Present)
+- 📈 **Chapter Operations:** Handling internal documentation, recruitment/membership pipelines, and official communication updates.
+- 🤝 **Team Logistics:** Coordinating cross-team updates between the management team and technical societies.
+  
+**Code Hub Team Lead | ACM Student Chapter** (Dec 2025 – May 2026)
+- 💻 **Technical Mentorship:** Directed coding initiatives, structured collaborative workflows, organized programming arenas, and mentored general body members in full-stack concepts.
 
 ---
 
@@ -238,7 +253,7 @@
 
 If you're looking to collaborate or offer an opportunity, reach out anytime:  
 
-<a href="mailto:ifraahmed817@gmail.com">
+<a href="mailto:ifraahmed171@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/ifra-ahmed-096423319" target="_blank">
