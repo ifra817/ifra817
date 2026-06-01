@@ -203,11 +203,6 @@
 ## 📘 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-232F3E?logo=hackthebox&logoColor=white&style=flat-square" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-1572B6?logo=tensorflow&logoColor=white&style=flat-square" alt="Machine Learning"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?logo=opencv&logoColor=white&style=flat-square" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Cybersecurity-232F3E?logo=hackthebox&logoColor=white&style=flat-square" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-1572B6?logo=tensorflow&logoColor=white&style=flat-square" alt="Machine Learning"/>
